@@ -8,4 +8,4 @@ Just install the apk in the Extra folder and you're good to go
 - Option Menu with Dialogs
 - New Design
 ------------
-<img src="screenshots/screenshot.png" height="400" alt="Screenshot"/> 
+<img src="Extra/screenshot.png" height="700" alt="Screenshot"/> 
